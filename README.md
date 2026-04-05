@@ -10,6 +10,7 @@ A curated list of projects involving multi-agent simulations for exploring diver
 
 - [Simulated Events & Fora](#simulated-events--fora)
 - [Multi-Agent Deliberation](#multi-agent-deliberation)
+- [LLM Councils](#llm-councils)
 - [Negotiation & Benchmarks](#negotiation--benchmarks)
 
 ---
@@ -69,6 +70,94 @@ Model repository for a think tank composed of AI agents (with Claude Code provid
 **Language:** Python
 
 **Author:** [josh-ashkinaze](https://github.com/josh-ashkinaze)
+
+---
+
+# LLM Councils
+
+Multi-model systems that query multiple LLMs and synthesize their responses through peer review and deliberation.
+
+## [LLM Council](https://github.com/karpathy/llm-council)
+
+![GitHub stars](https://img.shields.io/github/stars/karpathy/llm-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/karpathy/llm-council)
+
+Local web app that sends queries to multiple LLMs simultaneously, has them anonymously peer-review each other's responses, then a "chairman" model synthesizes a final answer. Uses OpenRouter for multi-provider access.
+
+**Language:** Python
+
+**Author:** [karpathy](https://github.com/karpathy) (Andrej Karpathy)
+
+---
+
+## [LLM Council Plus](https://github.com/DmitryBMsk/llm-council-plus)
+
+![GitHub stars](https://img.shields.io/github/stars/DmitryBMsk/llm-council-plus?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/DmitryBMsk/llm-council-plus)
+
+Production-grade extension of Karpathy's llm-council. Adds multi-user JWT auth, web search integration, file upload (PDF/images/markdown), flexible storage (JSON/PostgreSQL/MySQL), Ollama support, and containerized deployment.
+
+**Language:** Python
+
+**Author:** [DmitryBMsk](https://github.com/DmitryBMsk)
+
+---
+
+## [Council of High Intelligence](https://github.com/0xNyk/council-of-high-intelligence)
+
+![GitHub stars](https://img.shields.io/github/stars/0xNyk/council-of-high-intelligence?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/0xNyk/council-of-high-intelligence)
+
+Claude Code `/council` skill that routes queries to 18 AI personas (Aristotle, Feynman, Kahneman, Sun Tzu, etc.) across multiple LLM providers. Three deliberation modes: full (3-round with cross-examination), quick (2-round), and duo (dialectic). Enforces dissent quotas and novelty gates.
+
+**Language:** Shell
+
+**Author:** [0xNyk](https://github.com/0xNyk)
+
+---
+
+## [The LLM Council](https://github.com/sherifkozman/the-llm-council)
+
+![GitHub stars](https://img.shields.io/github/stars/sherifkozman/the-llm-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/sherifkozman/the-llm-council)
+
+Multi-model orchestration framework that runs adversarial council workflows. Multiple LLMs debate and critique each other's outputs, then synthesize a final answer. Supports adversarial debate rounds, cross-validation, and JSON schema enforcement.
+
+**Language:** Python
+
+**Author:** [sherifkozman](https://github.com/sherifkozman)
+
+---
+
+## [LLM Council (amiable-dev)](https://github.com/amiable-dev/llm-council)
+
+![GitHub stars](https://img.shields.io/github/stars/amiable-dev/llm-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/amiable-dev/llm-council)
+
+Multi-LLM deliberation system with three-stage pipeline: parallel query to multiple LLMs, anonymized peer review and ranking, then chairman synthesis. Available as Python library, MCP server, or HTTP API.
+
+**Language:** Python
+
+**Author:** [amiable-dev](https://github.com/amiable-dev)
+
+---
+
+## [MultiMind-AI](https://github.com/JitseLambrichts/MultiMind-AI)
+
+![GitHub stars](https://img.shields.io/github/stars/JitseLambrichts/MultiMind-AI?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/JitseLambrichts/MultiMind-AI)
+
+Local-first web UI for multi-agent reasoning on small local models. Three architectures: sequential Thinking Pipeline (Plan/Execute/Critique), parallel Agent Council (expert advisors + lead judge), and hierarchical Organisation Mode (CEO → departments → employees → synthesis). Zero-config auto-discovery of Ollama/LM Studio.
+
+**Language:** Python
+
+**Author:** [JitseLambrichts](https://github.com/JitseLambrichts)
+
+---
+
+## [LLM Council Skill](https://github.com/gcpdev/llm-council-skill)
+
+![GitHub stars](https://img.shields.io/github/stars/gcpdev/llm-council-skill?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/gcpdev/llm-council-skill)
+
+Claude Code skill that queries ChatGPT and Gemini for their perspectives on a question, then synthesizes a combined implementation plan with attribution.
+
+**Language:** Python
+
+**Author:** [gcpdev](https://github.com/gcpdev)
 
 ---
 

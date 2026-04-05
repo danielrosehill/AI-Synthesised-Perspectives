@@ -161,6 +161,78 @@ Claude Code skill that queries ChatGPT and Gemini for their perspectives on a qu
 
 ---
 
+## [Coven](https://github.com/pierluigi-failla/coven)
+
+![GitHub stars](https://img.shields.io/github/stars/pierluigi-failla/coven?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/pierluigi-failla/coven)
+
+On-premise/offline multi-LLM council interface. Multiple LLMs deliberate on a query in parallel, with optional peer critique, then a "Chairman" model synthesizes a final response. Includes RAG, tool calling, multimodal vision, and X-Ray deliberation view.
+
+**Language:** Python
+
+**Author:** [pierluigi-failla](https://github.com/pierluigi-failla)
+
+---
+
+## [LLM Council Skill (shuntacurosu)](https://github.com/shuntacurosu/llm_council_skill)
+
+![GitHub stars](https://img.shields.io/github/stars/shuntacurosu/llm_council_skill?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/shuntacurosu/llm_council_skill)
+
+Claude Skill that orchestrates multiple LLMs as a council through a 3-stage process: independent responses, anonymous peer review/ranking, then chairman synthesis. Uses git worktrees for member work and includes a real-time TUI dashboard.
+
+**Language:** Python
+
+**Author:** [shuntacurosu](https://github.com/shuntacurosu)
+
+---
+
+## [Yoetz](https://github.com/avivsinai/yoetz)
+
+![GitHub stars](https://img.shields.io/github/stars/avivsinai/yoetz?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/avivsinai/yoetz)
+
+Fast CLI-first LLM council + code bundler + multimodal gateway written in Rust. Multi-model consensus with configurable voting, code review, and image/video generation.
+
+**Language:** Rust
+
+**Author:** [avivsinai](https://github.com/avivsinai)
+
+---
+
+## [Star Chamber](https://github.com/peteski22/star-chamber)
+
+![GitHub stars](https://img.shields.io/github/stars/peteski22/star-chamber?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/peteski22/star-chamber)
+
+Multi-LLM council protocol SDK. Fan out code reviews and design questions to multiple providers, then classify findings by consensus. Pip-installable library with CLI.
+
+**Language:** Python
+
+**Author:** [peteski22](https://github.com/peteski22)
+
+---
+
+## [Roundtable](https://github.com/brandongalang/roundtable)
+
+![GitHub stars](https://img.shields.io/github/stars/brandongalang/roundtable?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/brandongalang/roundtable)
+
+Multi-model chat app where multiple AI models respond in parallel, then a synthesizer/judge model does comparative analysis and composes a final response. Supports custom personas (skeptic, advocate, expert) and token/cost analytics.
+
+**Language:** TypeScript
+
+**Author:** [brandongalang](https://github.com/brandongalang)
+
+---
+
+## [LLM Council (rachittshah)](https://github.com/rachittshah/llmcouncil)
+
+![GitHub stars](https://img.shields.io/github/stars/rachittshah/llmcouncil?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/rachittshah/llmcouncil)
+
+Multi-LLM deliberation council with 6 structured protocols: vote, debate, synthesize, critique, red team, and model-as-verifier. Ships as MCP server and Claude Code skill. Features adaptive stopping for debates.
+
+**Language:** TypeScript
+
+**Author:** [rachittshah](https://github.com/rachittshah)
+
+---
+
 # Negotiation & Benchmarks
 
 Tools and benchmarks for multi-agent negotiation and strategic deliberation.

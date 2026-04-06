@@ -233,6 +233,20 @@ Multi-LLM deliberation council with 6 structured protocols: vote, debate, synthe
 
 ---
 
+## [AgentTorch](https://github.com/AgentTorch/AgentTorch)
+
+![GitHub stars](https://img.shields.io/github/stars/AgentTorch/AgentTorch?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/AgentTorch/AgentTorch)
+
+Differentiable agent-based modeling framework supporting millions of LLM-powered agents. Used for population-level simulations of economic, epidemiological, and social dynamics where diverse agent perspectives emerge at scale.
+
+*Enables large-scale deliberation and perspective synthesis across heterogeneous agent populations.*
+
+**Language:** Jupyter Notebook
+
+**Author:** [AgentTorch](https://github.com/AgentTorch)
+
+---
+
 # Negotiation & Benchmarks
 
 Tools and benchmarks for multi-agent negotiation and strategic deliberation.

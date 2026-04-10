@@ -91,6 +91,18 @@ Local web app that sends queries to multiple LLMs simultaneously, has them anony
 
 ---
 
+## [LLM Council Template](https://github.com/danielrosehill/LLM-Council-Template)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Council-Template?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Council-Template)
+
+Template based on Karpathy's llm-council, modified to use a single LLM with six personality-based system prompts (Logical Thinker, Creative Solver, Pessimist, Optimist, Connector, Unconventional) instead of multiple providers. Includes digest outputs: Typst PDF reports and personal podcast generation via Edge TTS.
+
+**Language:** Python
+
+*Author note: Daniel's derivative of the original llm-council concept, focused on personality-based deliberation rather than multi-provider comparison.*
+
+---
+
 ## [LLM Council Plus](https://github.com/DmitryBMsk/llm-council-plus)
 
 ![GitHub stars](https://img.shields.io/github/stars/DmitryBMsk/llm-council-plus?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/DmitryBMsk/llm-council-plus)

@@ -77,6 +77,8 @@ Model repository for a think tank composed of AI agents (with Claude Code provid
 
 Multi-model systems that query multiple LLMs and synthesize their responses through peer review and deliberation.
 
+> **See also:** [LLM-Council-Projects](https://github.com/danielrosehill/LLM-Council-Projects) — a dedicated index covering the broader LLM Council ecosystem (derivatives, IDE integrations, local-first, SDK, plugins, and domain-specific applications).
+
 ## [LLM Council](https://github.com/karpathy/llm-council)
 
 ![GitHub stars](https://img.shields.io/github/stars/karpathy/llm-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/karpathy/llm-council)

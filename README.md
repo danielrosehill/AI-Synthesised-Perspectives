@@ -235,6 +235,138 @@ Multi-LLM deliberation council with 6 structured protocols: vote, debate, synthe
 
 ---
 
+## [Architect-Council](https://github.com/JustinNarracott/Architect-Council)
+
+![GitHub stars](https://img.shields.io/github/stars/JustinNarracott/Architect-Council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/JustinNarracott/Architect-Council)
+
+AI-powered Design Authority — 5 specialist agents evaluate architecture decisions and deliver structured rulings in under 60 seconds.
+
+**Language:** Python
+
+**Author:** [JustinNarracott](https://github.com/JustinNarracott)
+
+---
+
+## [autocouncil](https://github.com/shadmau/autocouncil)
+
+![GitHub stars](https://img.shields.io/github/stars/shadmau/autocouncil?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/shadmau/autocouncil)
+
+Self-improvement loops for OpenClaw agents via multi-model LLM council.
+
+**Language:** Python
+
+**Author:** [shadmau](https://github.com/shadmau)
+
+---
+
+## [claude-council](https://github.com/hex/claude-council)
+
+![GitHub stars](https://img.shields.io/github/stars/hex/claude-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/hex/claude-council)
+
+Claude Code plugin to consult multiple AI coding agents (Gemini, OpenAI, Grok) for diverse perspectives.
+
+**Language:** Shell
+
+**Author:** [hex](https://github.com/hex)
+
+---
+
+## [Crew-Council](https://github.com/Josephcc2/Crew-Council)
+
+![GitHub stars](https://img.shields.io/github/stars/Josephcc2/Crew-Council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Josephcc2/Crew-Council)
+
+4 LLMs work together to generate a report based off of scientific papers without hallucinations.
+
+**Language:** Python
+
+**Author:** [Josephcc2](https://github.com/Josephcc2)
+
+---
+
+## [gemini-llm-council](https://github.com/theerud/gemini-llm-council)
+
+![GitHub stars](https://img.shields.io/github/stars/theerud/gemini-llm-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/theerud/gemini-llm-council)
+
+Multi-LLM consensus extension for Gemini CLI. Inspired by Andrej Karpathy's llm-council.
+
+**Language:** TypeScript
+
+**Author:** [theerud](https://github.com/theerud)
+
+---
+
+## [LLM-Council-IDE](https://github.com/ibrahimansr/LLM-Council-IDE)
+
+![GitHub stars](https://img.shields.io/github/stars/ibrahimansr/LLM-Council-IDE?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/ibrahimansr/LLM-Council-IDE)
+
+Drawing inspiration from Andrej Karpathy's LLM Council, this is an implementation for coding. LLMs evaluate each other and generate the best result rather than modern day IDEs where only one model is chosen.
+
+**Language:** Python
+
+**Author:** [ibrahimansr](https://github.com/ibrahimansr)
+
+---
+
+## [LLM-Council-v2](https://github.com/laceyp99/LLM-Council-v2)
+
+![GitHub stars](https://img.shields.io/github/stars/laceyp99/LLM-Council-v2?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/laceyp99/LLM-Council-v2)
+
+A take on Andrej Karpathy's LLM Council, where you are the ultimate head chairman making decisions in the real world. A great tool to prompt multiple models at the same time to compare output quality.
+
+**Language:** Python
+
+**Author:** [laceyp99](https://github.com/laceyp99)
+
+---
+
+## [Philosophers-council](https://github.com/dimitreOliveira/Philosophers-council)
+
+![GitHub stars](https://img.shields.io/github/stars/dimitreOliveira/Philosophers-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitreOliveira/Philosophers-council)
+
+A Gemma-based chatbot app that has multiple bots impersonating famous philosophers from different schools.
+
+**Language:** Python
+
+**Author:** [dimitreOliveira](https://github.com/dimitreOliveira)
+
+---
+
+## [PolyCouncil](https://github.com/TrentPierce/PolyCouncil)
+
+![GitHub stars](https://img.shields.io/github/stars/TrentPierce/PolyCouncil?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/TrentPierce/PolyCouncil)
+
+PolyCouncil is an open-source multi-model deliberation engine for LM Studio. It runs multiple LLMs in parallel, gathers their answers, scores each response using a shared rubric, and produces a final, consensus-driven result.
+
+**Language:** Python
+
+**Author:** [TrentPierce](https://github.com/TrentPierce)
+
+---
+
+## [Research_council](https://github.com/al1-nasir/Research_council)
+
+![GitHub stars](https://img.shields.io/github/stars/al1-nasir/Research_council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/al1-nasir/Research_council)
+
+GraphRAG + 4-agent LLM council for biomedical research. Find contradictions, validate hypotheses, and get confidence-scored answers, cited to real papers. Built on Neo4j, LangGraph, Groq & OpenRouter.
+
+**Language:** Python
+
+**Author:** [al1-nasir](https://github.com/al1-nasir)
+
+---
+
+## [Sage](https://github.com/usetig/sage)
+
+![GitHub stars](https://img.shields.io/github/stars/usetig/sage?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/usetig/sage)
+
+An LLM council that reviews your coding agent's every move.
+
+**Language:** TypeScript
+
+**Author:** [usetig](https://github.com/usetig)
+
+---
+
 ## [AgentTorch](https://github.com/AgentTorch/AgentTorch)
 
 ![GitHub stars](https://img.shields.io/github/stars/AgentTorch/AgentTorch?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/AgentTorch/AgentTorch)
